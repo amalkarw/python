@@ -1,4 +1,4 @@
-total = 0
+total = 1
 count = 0
 while (True):
     inp = input('Enter a number: ')
